@@ -23,30 +23,30 @@ const { v4: uuidv4 } = require('uuid');
 var alltasks = [
     {
         id:uuidv4(),
-        descripcion:"Hope",
-        dueDate:new Date(),
+        text:"Hope",
         status: "Ready",
-        responsable: "gg@mail.com"
+        dueDate:new Date(),
+        responsible: "gg@mail.com"
     },
     {
         id:uuidv4(),
-        descripcion:"Prueba",
-        dueDate:new Date(),
+        text:"Prueba",
         status: "Done",
-        responsable: "luis@mail.com"
+        dueDate:new Date(),
+        responsible: "luis@mail.com"
     },
     {
         id:uuidv4(),
-        descripcion:"Otra Prueba",
-        dueDate:new Date(),
+        text:"Otra Prueba",
         status: "In progress",
-        responsable: "alejo@mail.com"
+        dueDate:new Date(),
+        responsible: "alejo@mail.com"
     },
     {
         id:uuidv4(),
-        descripcion:"Final",
-        dueDate:new Date(),
+        text:"Final",
         status: "In progress",
-        responsable: "zeus@mail.com"
+        dueDate:new Date(),
+        responsible: "zeus@mail.com"
     }
 ];
