@@ -1,4 +1,4 @@
-# IETI_TaskPlannerAPIP2_Lab07
+# IETI_TaskPlannerAPIP2_Lab07 Backend :new_moon_with_face:
 
 In this lab you will use your knowledge in Javascript language to complete the Task Planner API. In the first lab you deployed the User API as a containerized microservice. For the Task API you will use serveless technology.
 
@@ -11,6 +11,11 @@ In this lab you will use your knowledge in Javascript language to complete the T
 * FrontEnd Firebase :full_moon_with_face:
 
 [![Firebase](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTr0pQqeYgoePimnEGjmm2cB_4YcYdCaX_IUA&usqp=CAU)](https://taskplab7.web.app/)
+
+## Credenciales para ingresar
+
+* Email:luis@mail.com
+* Pwd: ieti123
 
 ## Repositories
 
